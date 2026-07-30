@@ -2,62 +2,78 @@
 
 Computer Science undergraduate at **Huazhong University of Science and Technology (HUST)**.
 
-🏆 **Gold Prize** — NUS School of Computing Summer Workshop 2026
+🏆 **Gold Prize — NUS School of Computing Summer Workshop 2026**
 
-I enjoy building software projects and exploring algorithms, functional programming, and software engineering.
+Interested in software engineering, algorithms, functional programming, and interactive systems.
 
 ---
 
-## Featured Projects
+## 🎓 Education
+
+**Huazhong University of Science and Technology (HUST)**  
+B.Eng. in Computer Science  
+*Sep. 2025 – Expected Jun. 2029*
+
+**Cumulative Average:** 92.8 / 100
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎵 Echo Fragments
-An interactive music puzzle game developed for the SICP Final Project at the NUS School of Computing Summer Workshop 2026.
 
-**My Contributions**
-- Designed and implemented the Sorting System
-- Developed drag-and-drop interaction
+A Gold Prize-winning interactive music puzzle game developed as the SICP Final Project for the **NUS School of Computing Summer Workshop 2026**.
+
+- Designed and implemented the **Sorting System**
+- Developed drag-and-drop music fragment arrangement
 - Implemented real-time audio preview
-- Built fragment sequence validation
+- Built multi-layer fragment and sequence validation
+- Integrated the sorting module with the music, map, and inventory systems
+- Collaborated in a four-member team using Git and GitHub
 
-➡️ **Repository:**  
-https://github.com/JimmyZheng6/echo-fragments
+[View Echo Fragments →](https://github.com/JimmyZheng6/echo-fragments)
 
 ---
 
 ### 🌆 MyWeb-Wuhan
 
-A personal website introducing the culture, history, food, and attractions of Wuhan.
+A personal website introducing the culture, food, scenery, and local life of Wuhan.
 
-➡️ Repository:  
-https://github.com/JimmyZheng6/MyWeb-Wuhan
+- Developed the website using HTML, CSS, and JavaScript
+- Designed a responsive multi-page interface
+- Created English and Chinese project documentation
+- Deployed the website through GitHub Pages
+
+[View MyWeb-Wuhan →](https://github.com/JimmyZheng6/MyWeb-Wuhan)
 
 ---
 
 ### 📚 Data Structures Lab
 
-C/C++ implementations of classical data structures for HUST coursework.
+C/C++ implementations of classical data structures developed for the HUST Data Structures course.
 
-➡️ Repository:  
-https://github.com/JimmyZheng6/Data-Structures-Lab
+- Implemented sequential lists, linked lists, binary trees, and graphs
+- Developed traversal, insertion, deletion, searching, and sorting operations
+- Added file-based data persistence
+- Designed menu-driven programs for testing and demonstration
 
----
-
-## Technical Skills
-
-**Languages**
-
-- C
-- C++
-- JavaScript
-- Python
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Xcode
+[View Data Structures Lab →](https://github.com/JimmyZheng6/Data-Structures-Lab)
 
 ---
 
-> *Code. Learn. Create.*
+## 💻 Technical Skills
+
+**Programming Languages:** C, C++, JavaScript, Python  
+**Web Development:** HTML, CSS  
+**Tools:** Git, GitHub, Visual Studio Code, Xcode, Source Academy  
+**Interests:** Software Engineering, Algorithms, Functional Programming, Human–Computer Interaction
+
+---
+## 📫 Contact
+
+- **Email:** zhengyaohan901@gmail.com
+- **GitHub:** [JimmyZheng6](https://github.com/JimmyZheng6)
+
+---
+
+> *Code. Learn. Build.*
