@@ -1,4 +1,4 @@
-# Hi, I'm Yaohan Zheng 👋
+# Hi, I'm Yaohan (Jimmy) Zheng 👋
 
 Computer Science undergraduate at **Huazhong University of Science and Technology (HUST)**.
 
