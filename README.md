@@ -2,9 +2,11 @@
 
 Computer Science undergraduate at **Huazhong University of Science and Technology (HUST)**.
 
-🏆 **Gold Prize — NUS School of Computing Summer Workshop 2026**
+🏆 **Gold Prize (First Place)** — SICP Final Project, NUS School of Computing Summer Workshop 2026
 
 Interested in software engineering, algorithms, functional programming, and interactive systems.
+
+
 
 ---
 
